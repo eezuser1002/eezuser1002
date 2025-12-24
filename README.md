@@ -4,6 +4,7 @@ Many of the projects were completed long ago and are being re-uploaded to this n
 ### Python
 ### Powershell
 - booker.ps1: Interactive CLI Active Directory user management.
+- backup.ps1: Interactive script that compresses and encrypts files and directories.
 ### Bash
 ### Cloud
 ### AI
