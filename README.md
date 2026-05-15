@@ -9,3 +9,5 @@ Many of the projects were completed long ago and are being re-uploaded to this n
 - sysMon.sh: Simple performance checker.
 ### Cloud
 ### AI
+### CS50
+Harvard CS50x Problem Sets
