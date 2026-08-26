@@ -1,8 +1,12 @@
-## Portfolio of Projects for eezuser1002
-Many of the projects were completed long ago and are being re-uploaded to this new account.
+<details>
+<summary>Python</summary>
 
-### Python
 - CS50P Harvard Python Programming Problem Set
+- Custom vulnerability scanner
+- Web security write-ups
+
+</details>
+
 ### Powershell
 - booker.ps1: Interactive CLI Active Directory user management.
 - backup.ps1: Interactive Windows backup script with compression and encryption.
