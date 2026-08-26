@@ -5,8 +5,9 @@
 
 <details>
 <summary>PowerShell</summary>
-- booker.ps1: Interactive CLI Active Directory user management
-- backup.ps1: Interactive Windows backup script with compression and encryption
+- [[https://github.com/eezuser1002/Powershell|booker.ps1]]: Interactive CLI Active Directory user management
+  
+- [[https://github.com/eezuser1002/Powershell|backup.ps1]]: Interactive Windows backup script with compression and encryption
 </details>
 
 
